@@ -1,10 +1,9 @@
 # CSCI 381 Final Project
 
 Group members:
-- please list your
-- group members
-- here!
+- Jon Carl
+- Nate Lentz
 
-Also, add any files to this repository that you would need as part of your final project submission.
+You can view our project here: https://github.com/jonathonacarl/curriculum-learning
 
-Finally, put any special instructions in this README about how to use your code/notebook.
+All information about which files to view is in the README of the linked repo.
